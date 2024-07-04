@@ -1,4 +1,4 @@
-title: "Michael Dear - Data Analyst"
+title: "Michael Dear - Remote Sensing and GIS Analyst"
 author: "M. Dear"
 # description: "Made with <b style=\"color: #f45;\">&lt;3</b>" # Tag at bottom of page
 permalink: /:title/
@@ -10,7 +10,7 @@ date_format: "%B %d, %Y"
 
 show_excerpts: true        # show article excerpts on the home page
 show_frame: false           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
+show_sidebar: true        # show a sidebar instead of the usual header
 minimal: true             # use a dark header
 
 # Menu
